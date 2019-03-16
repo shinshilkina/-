@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="my_practic.exe" version="1.0.0.4" publicKeyToken="39fe8cfe93ce6980" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="my_practic" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="my_practic.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          При необходимости изменить уровень управления учетными записями Windows замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если вы хотите использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="my_practic.exe" size="323032">
+      <assemblyIdentity name="my_practic" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>yM61kHQ+Zemt67Iiq6UbPHyqft1iGfs9ylmJQ4pFLQs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="my_practic.exe.config" size="598">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ca3ESXzBFgMrKl0ueCDCAYcBsXJi8VWX14h/KRNbPkY=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-1SD5D6D\Ася" issuerKeyHash="5926446f6ee49016bef9c7fd27deec07908c4a48" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>m7LGgHIKGA811hdP6s0z9/fIuDJeahofcRETYw8t9zI=</DigestValue></Reference></SignedInfo><SignatureValue>qQ52eYAnEJpDkNjIUxTpwrye+Q+8LD0HVZ3JDhy4+pDQy1rpkPM4muoijvHW8PGLtWx++uSYzMRLsmbnlPvfsUS0xQ8ZiWJb43E+W9mKuzW0S2RTnc6LMOBdy260ko5HhKzu6ri8Hb6Q8vel7yYTYhFW7qFKG+OdZKg6ozXQ1lA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>94ZEEe7xGQoiuzDGEZB4dZWw16zC/6yWEPA7C7IDJepND2bNtfk9RGEmDIsjmcs/5CmTsDD+eNg6N6qWYBD1+9A4Y90gXksykl+p7pSe8m77bwHLBcMqpqAY2XufwRU0krh2aMk4QinlPpJ8uLIcfF0MeM8dArVf5dbaUhFkSr0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="32f72d0f631311711f1a6a5e32b8c8f7f733cdea4f17d6350f180a7280c6b29b" Description="" Url=""><as:assemblyIdentity name="my_practic.exe" version="1.0.0.4" publicKeyToken="39fe8cfe93ce6980" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-1SD5D6D\Ася</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>bekaStEDpskIaY4KksYhQ+LJm9SQoD5D/SnGLyxDDkg=</DigestValue></Reference></SignedInfo><SignatureValue>HOmkMNsRodWFtf5EVy/US5wd00dyCp3EIX4PPOVuJ9zldOvlmnyFYEubQOGEJVtcN5O2wOrqO+uzCmy/61R3iVbcFo055xvYxmbMzeJvDZQ2ecUVTT9JYWxo5KXqz3gYg7Y5/BlDWfQM24HKWfBZUuhrIkjytk8ZkR+gwET6x/M=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>94ZEEe7xGQoiuzDGEZB4dZWw16zC/6yWEPA7C7IDJepND2bNtfk9RGEmDIsjmcs/5CmTsDD+eNg6N6qWYBD1+9A4Y90gXksykl+p7pSe8m77bwHLBcMqpqAY2XufwRU0krh2aMk4QinlPpJ8uLIcfF0MeM8dArVf5dbaUhFkSr0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQZ7Kt+GjhNZpN/2hI1rnbLzANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYARABFAFMASwBUAE8AUAAtADEAUwBEADUARAA2AEQAXAQQBEEETzAeFw0xODA1MDExNjU5MThaFw0xOTA1MDEyMjU5MThaMDExLzAtBgNVBAMeJgBEAEUAUwBLAFQATwBQAC0AMQBTAEQANQBEADYARABcBBAEQQRPMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD3hkQR7vEZCiK7MMYRkHh1lbDXrML/rJYQ8DsLsgMl6k0PZs21+T1EYSYMiyOZyz/kKZOwMP542Do3qpZgEPX70Dhj3SBeSzKSX6nulJ7ybvtvAcsFwyqmoBjZe5/BFTSSuHZoyThCKeU+kny4shx8XQx4zx0CtV/l1tpSEWRKvQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAKiXJ94pn3QNvKN03BrftD23Nz1RGSs8wNe800ZeRxhX8M+NBSu5x/oivrR4mDRTi+48fE8QoRLpeIFcRU2cGVf1AbJIgMrg5yd91zntC4Ts0bFPzLKB0AMgLYYLX167KkUEWbfWwafcIbPXFtNCIfZc2W6VTgfmD0qG9ae3qlj6</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

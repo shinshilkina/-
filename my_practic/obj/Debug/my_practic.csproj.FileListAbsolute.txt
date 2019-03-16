@@ -1,0 +1,74 @@
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\bin\Debug\my_practic.exe.config
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\bin\Debug\my_practic.exe
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\bin\Debug\my_practic.pdb
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.Form1.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.month.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.Properties.Resources.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.csproj.GenerateResource.Cache
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.exe
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.pdb
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.month_change.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.week.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.week_change.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.my_dairy.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.trekers.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.applClose.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic\my_practic\obj\Debug\my_practic.homePage.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\bin\Debug\my_practic.exe.config
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.exe
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.pdb
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\bin\Debug\my_practic.exe
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\bin\Debug\my_practic.pdb
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.csprojResolveAssemblyReference.cache
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.applClose.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.Form1.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.homePage.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.month.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.month_change.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.my_dairy.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.Properties.Resources.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.trekers.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.week.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.week_change.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\my_practic — копия\my_practic\obj\Debug\my_practic.csproj.GenerateResource.Cache
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\bin\Debug\my_practic.exe.config
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.exe
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.pdb
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\bin\Debug\my_practic.exe
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\bin\Debug\my_practic.pdb
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.csprojResolveAssemblyReference.cache
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.applClose.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.Form1.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.homePage.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.month.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.month_change.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.my_dairy.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.Properties.Resources.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.trekers.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.week.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.week_change.resources
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.csproj.GenerateResource.Cache
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\bin\Debug\my_practic.exe.manifest
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\bin\Debug\my_practic.application
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.exe.manifest
+C:\Users\Ася\Desktop\Ася\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.application
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\bin\Debug\my_practic.exe.config
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.exe
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.pdb
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\bin\Debug\my_practic.exe.manifest
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\bin\Debug\my_practic.application
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\bin\Debug\my_practic.exe
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\bin\Debug\my_practic.pdb
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.applClose.resources
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.Form1.resources
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.homePage.resources
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.month.resources
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.month_change.resources
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.my_dairy.resources
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.Properties.Resources.resources
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.trekers.resources
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.week.resources
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.week_change.resources
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.csproj.GenerateResource.Cache
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.exe.manifest
+C:\Users\Ася\Desktop\универ\4 семестр\учебная практика\Ежедневник\my_practic\obj\Debug\my_practic.application
